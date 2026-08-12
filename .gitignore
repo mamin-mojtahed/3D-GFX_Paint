@@ -1,0 +1,14 @@
+build/*
+cmake-build-debug
+cmake-build-release
+cmake-build-relwithdebinfo
+.DS_Store
+
+# project
+cs488.h
+code-backup
+*.zip
+*.mp4
+!build/3D-GFX_Paint
+src/main.cpp
+src/project.h
